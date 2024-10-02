@@ -8,5 +8,17 @@ Objective: Vrinda Store aims to create an annual sales report for 2022. The purp
 5) What are the different order statuses in 2022?
 6) Explore the relationship between age and gender based on sales?
 7) Which channel contributes to the maximum number of new sign-ups?
+   
+# Sample Insights:
+
+Women are more likely to buy compared to men (~65%).
+Top 3 contributing states: Maharashtra, Karnataka, and Uttar Pradesh.
+The adult age group (30-49 yrs) contributes the most (~50%).
+Max contributing sales channels: Amazon, Flipkart, and Myntra.
+And now, drumroll, please… 
+
+Final Conclusion to Improve Vrinda Store Sales:
+
+Target women customers aged 30-49 living in Maharashtra, Karnataka, and Uttar Pradesh. Show them irresistible ads, offers, and coupons on Amazon, Flipkart, and Myntra. 
 
    
